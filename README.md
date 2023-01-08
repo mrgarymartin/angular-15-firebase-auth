@@ -1,9 +1,9 @@
-# Angular 13 Authentication with Firebase
+# Angular 15 Authentication with Firebase
 
 Learn to create full Firebase authentication system with Angular using AngularFire2 library.
 
 ## Written Article
-[Full Angular 13 Firebase Authentication System](https://www.positronx.io/full-angular-firebase-authentication-system)
+Full Angular 15 Firebase Authentication System
 
 
 - Sign in with Google
@@ -15,9 +15,6 @@ Learn to create full Firebase authentication system with Angular using AngularFi
 - Prevent user to access inner pages unless user is not logged In
 - Prevent user to access sign in and sign up components when a user is already logged in
 - Save user data to localstorage when user is logged in
-
-**If you love this project then show your love by simply sharing this repo with others and don't forget to put a GitHub star ⭐ ! Thanks** :pray:
-
 
 
 ## Installation Process
